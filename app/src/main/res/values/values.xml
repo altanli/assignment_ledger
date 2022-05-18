@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="minor_textsize">12sp</dimen>
+    <dimen name="caption_textsize">14sp</dimen>
+    <dimen name="normal_textsize">16sp</dimen>
+    <dimen name="medium_textsize">18sp</dimen>
+    <dimen name="big_textsize">20sp</dimen>
+
+    <dimen name="small_round_radius">5dp</dimen>
+    <dimen name="round_radius">15dp</dimen>
+
+    <dimen name="minor_margin">2dp</dimen>
+    <dimen name="small_margin">4dp</dimen>
+    <dimen name="medium_margin">6dp</dimen>
+    <dimen name="big_margin">8dp</dimen>
+    <dimen name="huge_margin">10dp</dimen>
+    <dimen name="extra_margin">14dp</dimen>
+    <dimen name="super_margin">30dp</dimen>
+
+    <dimen name="huge_padding">50dp</dimen>
+</resources>
